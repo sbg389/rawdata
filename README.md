@@ -1,2 +1,2 @@
 # rawdata
-This repository contains raw datavthat is not part of any of the other repos. Just that
+This repository contains raw data that is not part of any of the other repos. Just that
